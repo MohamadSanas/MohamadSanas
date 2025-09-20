@@ -1,7 +1,9 @@
   <h1 align="center">Hi 👋, I'm Mohamad Sanas</h1>
 <h3 align="center">Computer Engineering Student at University of Jaffna🌟.</h3>
 <br>
-<p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MohamadSanas &amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="MohamadSanas"> 
+<p align="right"> </p><h3 align="right">Profile Views :-</h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=MohamadSanas&label=Profile%20views&color=0e75b6&style=flat" alt="MohamadSanas">
+<img align="right" src="https://github.com/MohamadSanas/sanas_mhd/blob/main/animation_500_kxa883sd.gif" alt="MohamadSanas">
   <p></p>
 <br>
 <p><img align="right" src="https://github.com/MohamadSanas/sanas_mhd/blob/main/animation_500_kxa883sd.gif" alt="MohamadSanas"></p>
@@ -39,11 +41,36 @@ He didn't debug it — he <strong>survived </strong><a>  it. 🔥💻
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> </a> </p>
 <br>
+
+<h3 align="center">GitHub Streak 📈</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MohamadSanas&theme=algolia" alt="GitHub Streak">
+  </a>
+</p>
+
 <h3>Statistical Data :-</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamadSanas&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="MohamadSanas" bg_color="#808080/"></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamadSanas&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;repo=convoychat" alt="adam-pw"></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSanas&amp;theme=dark&amp;background=0d1117&amp;date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"></p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt="MohamadSanas"></a> </p>
-<p><a href="https://github.com/MohamadSanas">MohamadSanas</a></p> 
+<h3>Statistical Data :-</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamadSanas&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamadSanas&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSanas&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/YourTwitterUsername" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/YourTwitterUsername?logo=twitter&style=for-the-badge" alt="Follow on Twitter">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MohamadSanas">MohamadSanas</a>
+</p>
+
