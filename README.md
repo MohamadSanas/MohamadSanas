@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student at University of Jaffna🌟.</h3>
 <br>
 <p align="left"> </p><h2 align="left">Profile Views</h2>
-<img align="left" src="https://komarev.com/ghpvc/?username=MohamadSanas &label=Profile%20views&color=0e75b6&style=flat" >
+<img align="left" src="https://komarev.com/ghpvc/?username=MohamadSanas&label=Profile%20views&color=0e75b6&style=flat" >
 </p>
 <br>
 <p><img align="right" src="https://raw.githubusercontent.com/MohamadSanas/MohamadSanas/main/animation_500_kxa883sd.gif" alt="MohamadSanas GIF">
